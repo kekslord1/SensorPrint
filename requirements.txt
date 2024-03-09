@@ -1,0 +1,8 @@
+pillow
+tk
+opencv-python
+numpy
+ezdxf
+pywin32
+matplotlib
+pandas
